@@ -1,6 +1,6 @@
 # A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem
 ___
- Link to our paper [[Arxiv](https://arxiv.org/abs/18.043)]
+[comment]: <> ( Link to our paper [[Arxiv](https://arxiv.org/abs/18.043)])
 
 # Requirements
 1. It is encouraged to create a new conda environment for running this code\
