@@ -1,4 +1,4 @@
-# A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem
+# Official imprementation of the paper "A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem"
 ___
 
 
