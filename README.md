@@ -2,7 +2,7 @@
 ___
 
 
-Link to our [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4329897)]
+Link to our [[paper](https://www.mdpi.com/2073-4360/15/17/3592)]
 
 
 # Requirements
